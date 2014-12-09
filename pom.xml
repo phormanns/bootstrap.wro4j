@@ -29,10 +29,6 @@
 					<artifactId>commons-exec</artifactId>
 				</exclusion>
 				<exclusion>
-					<groupId>commons-pool</groupId>
-					<artifactId>commons-pool</artifactId>
-				</exclusion>
-				<exclusion>
 					<groupId>org.springframework</groupId>
 					<artifactId>spring-web</artifactId>
 				</exclusion>
@@ -71,10 +67,6 @@
 				<exclusion>
 					<groupId>org.codehaus.gmaven.runtime</groupId>
 					<artifactId>gmaven-runtime-1.7</artifactId>
-				</exclusion>
-				<exclusion>
-					<groupId>org.webjars</groupId>
-					<artifactId>webjars-locator</artifactId>
 				</exclusion>
 				<exclusion>
 					<groupId>org.webjars</groupId>

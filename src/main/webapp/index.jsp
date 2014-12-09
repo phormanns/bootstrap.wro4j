@@ -12,8 +12,8 @@
 
     <title>Bare - Start Bootstrap Template</title>
 
-    <!-- Bootstrap-CSS and JS -->
-    <link rel="stylesheet" type="text/css" href="wro/all.css" />
+    <!-- Bootstrap-CSS -->
+    <link rel="stylesheet" type="text/css" href="<%= request.getContextPath() %>/wro/all.css" />
 
 </head>
 
@@ -65,8 +65,8 @@
 
     </div>
     
-    <script type="text/javascript" src="bootstrap/starter-template/jquery.js" ></script>
-    <script type="text/javascript" src="wro/all.js" ></script>
+    <script type="text/javascript" src="<%= request.getContextPath() %>/bootstrap/starter-template/jquery.js" ></script>
+    <script type="text/javascript" src="<%= request.getContextPath() %>/wro/all.js" ></script>
     
 </body>
 
