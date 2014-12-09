@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <groups xmlns="http://www.isdc.ro/wro"> 
   <group name="all">
-    <css>/bootstrap/less/bootstrap.less</css>
+    <css>/bootstrap/less/bootstrap.less</css> 
     <css>/bootstrap/starter-template/style.less</css>
     <js>/bootstrap/js/**.js</js>
   </group>      
